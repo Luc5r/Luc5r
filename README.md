@@ -77,11 +77,6 @@ B.Tech graduate in Computer Science (Cyber Security) with strong fundamentals in
 - Practicing labs (TryHackMe)  
 - XSS, CORS, CSRF, SSRF  
 
----
-
-## 🌐 Contact
-
-- LinkedIn: https://www.linkedin.com/in/satyasai00/
 
 ---
 
