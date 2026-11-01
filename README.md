@@ -1,4 +1,4 @@
-# Hi, I'm Satya Sai
+# Hi
 
 **🔥 Discipline is choosing what you want most over what you want now. 💯**
 
